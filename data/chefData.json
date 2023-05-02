@@ -1,0 +1,285 @@
+[
+    {
+      "id": 1,
+      "name": "Sompong Yenbamrung",
+      "image": "https://example.com/sompong.jpg",
+      "experience": "15 years",
+      "numOfLike": 123,
+      "numOfRecipe": 45,
+      "description": "Sompong Yenbamrung is a well-known chef from Thailand who has been cooking for over 15 years. He is known for his expert use of spices and flavors in traditional Thai dishes, and has a large following on social media.",
+      "recipes": [
+        {
+          "name": "Green Curry Chicken",
+          "ingredients": [
+            "chicken breast",
+            "green curry paste",
+            "coconut milk",
+            "Thai basil leaves",
+            "kaffir lime leaves"
+          ],
+          "method": "Heat the curry paste in a saucepan over medium heat. Add the chicken and cook until browned. Add the coconut milk and bring to a simmer. Add the Thai basil leaves and kaffir lime leaves. Serve over rice.",
+          "rating": 4.5
+        },
+        {
+          "name": "Pad Thai",
+          "ingredients": [
+            "rice noodles",
+            "shrimp",
+            "bean sprouts",
+            "eggs",
+            "tamarind sauce"
+          ],
+          "method": "Soak the rice noodles in warm water until softened. Heat oil in a wok or skillet over high heat. Add shrimp and cook until pink. Push shrimp to the side and add eggs. Add noodles and stir-fry. Add bean sprouts and tamarind sauce. Serve with lime wedges.",
+          "rating": 4.2
+        },
+        {
+          "name": "Tom Yum Soup",
+          "ingredients": [
+            "lemongrass",
+            "galangal",
+            "kaffir lime leaves",
+            "chili paste",
+            "shrimp"
+          ],
+          "method": "Bring water to a boil in a pot. Add lemongrass, galangal, and kaffir lime leaves. Add chili paste and stir. Add shrimp and cook until pink. Serve with lime wedges.",
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Saipin Chutima",
+      "image": "https://example.com/saipin.jpg",
+      "experience": "20 years",
+      "numOfLike": 245,
+      "numOfRecipe": 78,
+      "description": "Saipin Chutima is an award-winning Thai chef who has been cooking for over 20 years. She is the owner of a popular Thai restaurant in the US, and has written several cookbooks on Thai cuisine.",
+      "recipes": [
+        {
+          "name": "Panang Curry",
+          "ingredients": [
+            "beef",
+            "Panang curry paste",
+            "coconut milk",
+            "palm sugar",
+            "kaffir lime leaves"
+          ],
+          "method": "Heat the curry paste in a saucepan over medium heat. Add the beef and cook until browned. Add the coconut milk and bring to a simmer. Add palm sugar and kaffir lime leaves. Serve over rice.",
+          "rating": 4.7
+        },
+        {
+          "name": "Tom Kha Gai",
+          "ingredients": [
+            "chicken breast",
+            "coconut milk",
+            "lemongrass",
+            "galangal",
+            "kaffir lime leaves"
+          ],
+          "method": "Bring coconut milk to a boil in a pot. Add lemongrass, galangal, and kaffir lime leaves. Add chicken breast and cook until done. Serve hot.",
+          "rating": 4.4
+        },
+        {
+          "name": "Mass Man Curry",
+          "ingredients": [
+            "chicken",
+            "Massaman curry paste",
+            "coconut milk",
+            "potatoes",
+            "peanuts"
+          ],
+          "method": "Heat the curry paste in a saucepan over medium heat. Add the chicken and cook until browned. Add the coconut milk and bring to a simmer. Add potatoes and peanuts. Serve over rice.",
+          "rating": 4.6
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Jet Tila",
+      "image": "https://example.com/jet.jpg",
+      "experience": "25 years",
+      "numOfLike": 400,
+      "numOfRecipe": 120,
+      "description": "Jet Tila is a renowned Thai-American chef with over 25 years of experience in the culinary industry. He has appeared on several TV shows and has authored a cookbook on Thai cuisine.",
+      "recipes": [
+        {
+          "name": "Pad See Ew",
+          "ingredients": [
+            "rice noodles",
+            "beef",
+            "Chinese broccoli",
+            "soy sauce",
+            "oyster sauce"
+          ],
+          "method": "Soak the rice noodles in warm water until softened. Heat oil in a wok or skillet over high heat. Add beef and cook until browned. Add Chinese broccoli and stir-fry. Add noodles, soy sauce, and oyster sauce. Serve hot.",
+          "rating": 4.3
+        },
+        {
+          "name": "Khao Soi",
+          "ingredients": [
+            "chicken thighs",
+            "yellow curry paste",
+            "coconut milk",
+            "egg noodles",
+            "pickled mustard greens"
+          ],
+          "method": "Heat the curry paste in a saucepan over medium heat. Add the chicken thighs and cook until browned. Add the coconut milk and bring to a simmer. Cook the egg noodles separately. Serve the curry over the noodles with pickled mustard greens.",
+          "rating": 4.9
+        },
+        {
+          "name": "Som Tum",
+          "ingredients": [
+            "green papaya",
+            "cherry tomatoes",
+            "green beans",
+            "palm sugar",
+            "fish sauce"
+          ],
+          "method": "Peel and shred the green papaya. Mix with cherry tomatoes and green beans. Add palm sugar and fish sauce to taste. Serve cold.",
+          "rating": 4.1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pim Techamuanvivit",
+      "image": "https://example.com/pim.jpg",
+      "experience": "15 years",
+      "numOfLike": 150,
+      "numOfRecipe": 60,
+      "description": "Pim Techamuanvivit is a Thai chef who runs her own restaurant in San Francisco. She has been cooking for over 15 years and is known for her innovative twists on traditional Thai dishes.",
+      "recipes": [
+        {
+          "name": "Khao Kluk Kapi",
+          "ingredients": [
+            "shrimp paste",
+            "steamed rice",
+            "sliced green mango",
+            "dried shrimp",
+            "shallots",
+            "fried chili peppers"
+          ],
+          "method": "Mix the shrimp paste with steamed rice. Add sliced green mango, dried shrimp, shallots, and fried chili peppers. Mix well and serve.",
+          "rating": 4.5
+        },
+        {
+          "name": "Gaeng Som",
+          "ingredients": [
+            "fish fillets",
+            "mixed vegetables",
+            "tamarind juice",
+            "palm sugar",
+            "fish sauce"
+          ],
+          "method": "Bring tamarind juice to a boil in a pot. Add mixed vegetables and fish fillets. Simmer until cooked through. Add palm sugar and fish sauce to taste. Serve over rice.",
+          "rating": 4.3
+        },
+        {
+          "name": "Pad Prik King",
+          "ingredients": [
+            "pork",
+            "red curry paste",
+            "green beans",
+            "kaffir lime leaves",
+            "coconut milk"
+          ],
+          "method": "Heat the red curry paste in a pan over medium heat. Add pork and cook until browned. Add green beans, kaffir lime leaves, and coconut milk. Simmer until cooked through. Serve over rice.",
+          "rating": 4.7
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "David Thompson",
+      "image": "https://example.com/david.jpg",
+      "experience": "25 years",
+      "numOfLike": 300,
+      "numOfRecipe": 90,
+      "description": "David Thompson is an Australian chef who is widely regarded as one of the foremost experts on Thai cuisine. He has spent over 25 years studying and perfecting Thai cooking, and has written several acclaimed cookbooks on the subject.",
+      "recipes": [
+        {
+          "name": "Gaeng Daeng",
+          "ingredients": [
+            "beef",
+            "red curry paste",
+            "coconut milk",
+            "bamboo shoots",
+            "Thai basil leaves"
+          ],
+          "method": "Heat the red curry paste in a pan over medium heat. Add beef and cook until browned. Add coconut milk and bamboo shoots. Simmer until cooked through. Add Thai basil leaves. Serve over rice.",
+          "rating": 4.8
+        },
+        {
+          "name": "Yam Makheua Yao",
+          "ingredients": [
+            "grilled eggplant",
+            "shallots",
+            "coriander",
+            "mint leaves",
+            "lime juice"
+          ],
+          "method": "Peel the skin off the grilled eggplant and smash it with a fork. Add shallots, coriander, mint leaves, and lime juice. Mix well and serve.",
+          "rating": 4.1
+        },
+        {
+          "name": "Miang Kham",
+          "ingredients": [
+            "roasted coconut",
+            "peanuts",
+            "ginger",
+            "shallots",
+            "lime wedges"
+          ],
+          "method": "Wrap roasted coconut, peanuts, ginger, and shallots in betel leaves. Serve with lime wedges.",
+          "rating": 4.4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Andy Ricker",
+      "image": "https://example.com/andy.jpg",
+      "experience": "30 years",
+      "numOfLike": 650,
+      "numOfRecipe": 200,
+      "description": "Andy Ricker is an American chef who is known for his expertise in Thai cuisine. He has spent over 30 years learning about and perfecting the art of Thai cooking, and has opened several successful Thai restaurants in the US.",
+      "recipes": [
+        {
+          "name": "Laab",
+          "ingredients": [
+            "ground pork",
+            "shallots",
+            "lemongrass",
+            "mint leaves",
+            "lime juice"
+          ],
+          "method": "Cook ground pork in a skillet over high heat. Add shallots and lemongrass. Stir-fry until cooked through. Add mint leaves and lime juice. Serve with sticky rice.",
+          "rating": 4.4
+        },
+        {
+          "name": "Gaeng Hanglay",
+          "ingredients": [
+            "pork belly",
+            "Hanglay curry paste",
+            "ginger",
+            "garlic",
+            "palm sugar"
+          ],
+          "method": "Heat the curry paste in a saucepan over medium heat. Add the pork belly and cook until browned. Add ginger and garlic. Add palm sugar to taste. Serve over rice.",
+          "rating": 4.8
+        },
+        {
+          "name": "Plaa Raad Prik",
+          "ingredients": [
+            "tilapia ",
+            "garlic",
+            "Thai chili peppers",
+            "fish sauce",
+            "lime juice"
+          ],
+          "method": "Score the tilapia and season with salt. Heat oil in a pan over medium heat. Fry the fish until crispy. Remove from pan and set aside. In the same pan, add garlic and Thai chili peppers. Stir-fry until fragrant. Add fish sauce and lime juice. Pour the sauce over the fish and serve with rice.",
+          "rating": 4.2
+        }
+      ]
+    }
+  ]
